@@ -43,7 +43,16 @@
   img {
     max-width: 100%;
   }
-  
+
+  .contacts {
+      ul {
+        padding: 0;
+      }
+      li {
+        list-style-type: none;
+      }
+  }
+
   table {
       border-spacing: 0px;
       border-collapse: collapse;

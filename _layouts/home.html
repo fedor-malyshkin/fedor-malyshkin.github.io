@@ -8,10 +8,20 @@ title: Fedor Malyshkin’s Portfolio
         <p class="subtitle">Java backend developer</p>
     </section>
     <section class="description" role="document">
-        <h2 role="presentation">Get the most out of Xamarin using MvvmCross</h2>
-        <p>Build clean, pixel perfect, native UIs. Share behavior and business logic in a single codebase across supported
-        platforms, using the Model-View-ViewModel (MVVM) design pattern. MvvmCross is a framework specifically developed
-        for Xamarin and the mobile ecosystem. It supports Xamarin.iOS, Xamarin.Android, Xamarin.Mac, Xamarin.Forms, Universal
-        Windows Platform (UWP) and Windows Presentation Framework (WPF)</p>
+        <a href="about_me"><h2 role="presentation">About me</h2></a>
+        <p>{% include about_me/description.md %}</p>
     </section>
+    <section class="description" role="document">
+        <a href="projects"><h2 role="presentation">Projects</h2></a>
+        <p>{% include projects/description.md %}</p>
+    </section>
+    <section class="description" role="document">
+        <a href="technologies"><h2 role="presentation">Technologies</h2></a>
+        <p>{% include technologies/description.md %}</p>
+    </section>
+    <section class="description" role="document">
+        <h2 role="presentation">Contacts</h2>
+        <p>{% include about_me/contacts.html %}</p>
+    </section>
+
 </article>

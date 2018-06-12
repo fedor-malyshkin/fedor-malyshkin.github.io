@@ -1,0 +1,1 @@
+As a programmer, I'm always looking for application of my experience in product development and process organization. I am tending to take a part in development of products with a lot of data and/or with lots of users.
