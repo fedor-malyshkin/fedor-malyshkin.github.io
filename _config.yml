@@ -13,16 +13,27 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: MvvmCross
-description: > # this means to ignore newlines until "baseurl:"
-  MvvmCross is a convention based MVVM framework for Xamarin and Windows,
-  with strong community support, filled to the brim with useful features.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://www.mvvmcross.com" # the base hostname & protocol for your site, e.g. http://example.com
+title: Fedor Malyshkin's Portfolio
+description: Backend developer, Java, Scala - Spring, Databases, Hadoop, Spark.
+url: "https://fedor-malyshkin.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+social:
+  name: Fedor Malyshkin
+  links:
+    - https://www.linkedin.com/in/fedor-malyshkin/
+    - https://habrahabr.ru/users/fedor_malyshkin/
+    - https://moikrug.ru/fedor-malyshkin
+    - https://github.com/fedor-malyshkin
+lang: en_US
 
 # Build settings
 markdown: kramdown
 highlighter: rouge
+
+github_link: https://github.com/fedor-malyshkin
+linkedin_link: https://www.linkedin.com/in/fedor-malyshkin/
+habrahabr_link: https://habrahabr.ru/users/fedor_malyshkin/
+moikrug_link: https://moikrug.ru/fedor-malyshkin
+telegram_link: tg://resolve?domain=@fedor_malyshkin
 
 kramdown:
   input: GFM
@@ -41,6 +52,7 @@ gems:
   - jekyll-sitemap
   - jekyll-avatar
   - jekyll-github-metadata
+  - jekyll-gist
 
 exclude:
   - Gemfile
@@ -49,21 +61,7 @@ exclude:
   - SITECHANGELOG.md
 # End
 
-# Github metadata settings
-repository: MvvmCross/MvvmCross
-# End
-
-# jekyll-seo-tag settings
-social:
-  name: MvvmCross
-  links:
-    - https://twitter.com/MvvmCross
-    - https://github.com/MvvmCross
-
 logo: /assets/img/logo/MvvmCross-avatar.png
-
-twitter:
-  username: MvvmCross
 #End
 
 # Date format settings
@@ -83,21 +81,12 @@ collections:
 
 # Site menu settings
 menu:
-  - title: "Blog"
-    url: "/blog"
-  - title: "Documentation"
-    url: "/documentation"
-  - title: "Support"
-    url: "/support"
+  - title: "About me"
+    url: "/about_me"
+  - title: "Projects"
+    url: "/projects"
+  - title: "Technologies"
+    url: "/technologies"
+  - title: "CV"
+    url: "/cv"
 # End
-
-category_order:
-  - 'Getting-started'
-  - 'Fundamentals'
-  - 'Advanced'
-  - 'Platforms'
-  - 'Plugins'
-  - 'Samples'
-  - 'Tutorials'
-  - 'Upgrading'
-  - 'Contributing'
