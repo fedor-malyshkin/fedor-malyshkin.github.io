@@ -3,4 +3,4 @@ layout: page
 title: Curriculum Vitae (CV)
 permalink: /cv/
 ---
-<a href="{{ 'assets/MalyshkinFedor_CV_Java_Dev.pdf' | relative_url }}" role="link" aria-label="Downloadable CV" title="Downloadable CV" >Downloadable CV</a>
+You always can get my CV in printable form on this link: [MalyshkinFedor_CV_Java_Dev.pdf](assets/MalyshkinFedor_CV_Java_Dev.pdf).

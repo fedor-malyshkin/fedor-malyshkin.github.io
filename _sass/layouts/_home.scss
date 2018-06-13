@@ -9,7 +9,6 @@
     >section {
         padding-top: $home-section-padding;
         padding-bottom: $home-section-padding;
-        text-align: center;
         color: $text-color;
         &:nth-child(2n) {
             background-color: $zebra-color;
@@ -22,12 +21,14 @@
         }
         h1,
         h2 {
+            text-align: center;
             font-weight: bold;
         }
         h2 {
             font-size: 1.875rem;
         }
         p {
+            text-indent: 2em;
             text-align: left;
             font-size: 1.5rem;
         }
@@ -38,6 +39,8 @@
         padding-bottom: $home-landing-padding;
         text-align: right;
         background: url($baseurl + "/assets/img/intro-bg.jpg") no-repeat center center;
+        h1,
+        h2,
         p {
             text-align: right;
         }
