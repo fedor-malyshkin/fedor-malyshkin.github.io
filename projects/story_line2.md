@@ -5,4 +5,5 @@ title:  "Story Line 2" Projects
 * **Working period:** XXXX-XXXX
 * **Used technologies:** XXXX, XXXX
 * **My part in project:** bla, bla
-* **Git repository:** 
+* **GitPages:** https://fedor-malyshkin.github.io/story_line2_build/
+* **Git repository:**
