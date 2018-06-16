@@ -36,7 +36,8 @@
             text-indent: 2em;
         }
         ul {
-            padding-left: 2em;
+			// идём по тому-же уровню, что и остальные
+            padding-left: 4em;
         }
     }
     >.landing {
