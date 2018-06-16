@@ -1,0 +1,27 @@
+---
+layout: default
+title: Fedor Malyshkin’s Portfolio
+---
+<article class="home" role="article">
+    <section class="landing" role="document">
+        <h1 class="title" role="presentation">Fedor Malyshkin</h1>
+        <p class="subtitle">Java backend developer</p>
+    </section>
+    <section class="description" role="document">
+        <a href="about_me"><h2 role="presentation">About me</h2></a>
+        <p>{% include about_me/description.html %}</p>
+    </section>
+    <section class="description" role="document">
+        <a href="projects"><h2 role="presentation">Projects</h2></a>
+        <p>{% include projects/description.html %}</p>
+    </section>
+    <section class="description" role="document">
+        <a href="technologies"><h2 role="presentation">Technologies</h2></a>
+        <p>{% include technologies/description.html %}</p>
+    </section>
+    <section class="description" role="document">
+        <h2 role="presentation">Contacts</h2>
+        <p>{% include about_me/contacts.html %}</p>
+    </section>
+
+</article>
