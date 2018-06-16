@@ -29,9 +29,11 @@
         }
         li,
         p {
+			text-align: left;
+			font-size: 1.5rem;
+		}
+        p {
             text-indent: 2em;
-            text-align: left;
-            font-size: 1.5rem;
         }
     }
     >.landing {
