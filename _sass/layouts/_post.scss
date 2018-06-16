@@ -38,6 +38,7 @@
     .contacts {
         ul {
             padding: 0;
+			padding-left: 2em;
         }
         li {
             list-style-type: none;
@@ -71,6 +72,9 @@
     p {
         text-indent: 2em;
     }
+	ul {
+		padding-left: 2em;
+	}	
     >.post-header {
         margin-bottom: $header-bottom-margin;
         h1 {

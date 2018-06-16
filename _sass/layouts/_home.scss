@@ -29,11 +29,14 @@
         }
         li,
         p {
-			text-align: left;
-			font-size: 1.5rem;
-		}
+            text-align: left;
+            font-size: 1.5rem;
+        }
         p {
             text-indent: 2em;
+        }
+        ul {
+            padding-left: 2em;
         }
     }
     >.landing {
@@ -52,6 +55,7 @@
         text-align: left;
         ul {
             padding: 0;
+			padding-left: 2em;
         }
         li {
             font-size: 1.5rem;
