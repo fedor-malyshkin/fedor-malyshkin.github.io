@@ -36,12 +36,10 @@
         max-width: 100%;
     }
     .contacts {
-		font-size: 1.5rem;
         ul {
             padding: 0;
         }
         li {
-			font-size: 1.2rem;
             list-style-type: none;
         }
     }
@@ -66,8 +64,11 @@
         text-align: left;
         padding: 5px 10px;
     }
+    p,
+    li {
+        font-size: 1.5rem;
+    }
     p {
-		font-size: 1.5rem;
         text-indent: 2em;
     }
     >.post-header {
