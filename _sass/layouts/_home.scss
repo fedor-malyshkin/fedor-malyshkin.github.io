@@ -27,10 +27,17 @@
         h2 {
             font-size: 1.875rem;
         }
+        li,
         p {
-            text-indent: 2em;
             text-align: left;
             font-size: 1.5rem;
+        }
+        p {
+            text-indent: 2em;
+        }
+        ul {
+			// идём по тому-же уровню, что и остальные
+            padding-left: 4em;
         }
     }
     >.landing {
@@ -49,8 +56,10 @@
         text-align: left;
         ul {
             padding: 0;
+			padding-left: 2em;
         }
         li {
+            font-size: 1.5rem;
             list-style-type: none;
         }
     }

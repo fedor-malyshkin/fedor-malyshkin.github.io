@@ -4,7 +4,7 @@ title: Projects I took a part
 permalink: /projects/
 ---
 
-During my programmer's career I took a part in many projects and created many applications,
+During my career I took a part in many projects and created many applications,
 but there are several projects wothly to mention:
 
 * [Magnet Platform and DMS "Big Archive" [**Java, Ant, SQL, JSP, Lucene**]](/projects/magnet_big_archive)
