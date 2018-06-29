@@ -9,7 +9,7 @@ For implementing a really big and complex software product (specially distribute
 So I have practical experience with such technologies I used in projects:
 
 ## Programming languages
-* Java (6 six years of expirience: streams, collections, generics, multithreading/concurrent programming, debugging)
+* Java (6 years of expirience: streams, collections, generics, multithreading/concurrent programming, debugging)
 * Groovy
 * Scala
 * R (used only for log analysis, data visualisation and analysis prototypes)
