@@ -7,9 +7,33 @@ permalink: /projects/
 During my career I took a part in many projects and created many applications,
 but there are several projects wothly to mention:
 
-* [Magnet Platform and DMS "Big Archive" [**Java, Ant, SQL, JSP, Lucene**]](/projects/magnet_big_archive)
-Some description about this project....
-* [GLR parser to extract structured data from text in natural language [**Java, Spring, NLP**]](/projects/glr_parser)
-Some description about this project....
-* [My side-project "StoryLine 2" (news aggregator) [**Java, Scala, Kafka, Akka, Gradle, Apache Spark, Apache Storm, No-SQL Spring, REST, Android**]](/projects/story_line2)
-Some description about this project....
+
+* [My side-project "StoryLine 2" (news aggregator)](/projects/story_line2)
+
+  _My side-project where I had opportunity to experiment with cutting-edge technologies and programming languages._
+  * **Working period:** 2016-now
+  * **Used technologies:** Java, Scala, Kafka, Akka, Gradle, Apache Spark, Apache Storm, No-SQL Spring, REST, Android
+  * **GitPages:** [https://fedor-malyshkin.github.io/story_line2_build/](https://fedor-malyshkin.github.io/story_line2_build/)
+
+
+* [Magnet Platform and DMS "Big Archive"](/projects/magnet_big_archive)
+
+  _The first big project i has been a part. Was based on old well-known technologies and  provided document management services for 600 managers. When I gone from project, project had a base of almost 1 million documents and almost same amount of dictionary records_
+  * **Description:** bla-bla
+  * **Working period:** 2006-2009
+  * **Used technologies:** Java, Ant, SQL, JSP, Lucene
+  * **My part in project:**
+  * **Git repository:**
+  	* [https://github.com/fedor-malyshkin/magnetosoft_big_archive](https://github.com/fedor-malyshkin/magnetosoft_big_archive)
+  	* [https://github.com/fedor-malyshkin/magnetosoft_magnet](https://github.com/fedor-malyshkin/magnetosoft_magnet)
+
+
+* [GLR parser to extract structured data from text in natural language](/projects/glr_parser)
+
+  _My first project in NLP, inspired by [tomita parser from Yandex](https://tech.yandex.ru/tomita/). Implemented fully in Java and have almost the same functionality as Yandex's product, uses morphological base from [http://opencorpora.org/](http://opencorpora.org/)_
+  * **Working period:** 2014-2015
+  * **Used technologies:** Spring, Java
+  * **Git repository:**
+  	* [https://github.com/fedor-malyshkin/story_line2_glr_parser](https://github.com/fedor-malyshkin/story_line2_glr_parser)
+  	* [https://github.com/fedor-malyshkin/story_line2_glr_parser_debugger](https://github.com/fedor-malyshkin/story_line2_glr_parser_debugger)
+  	* [https://github.com/fedor-malyshkin/story_line2_glr_parser_testing](https://github.com/fedor-malyshkin/story_line2_glr_parser_testing)
