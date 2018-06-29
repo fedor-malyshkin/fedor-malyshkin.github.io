@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Fedor Malyshkin's Portfolio
-description: Backend developer, Java, Scala - Spring, Databases, Hadoop, Spark.
+description: "Backend developer: Java, Scala, Spring, Akka, Databases, Hadoop, Spark"
 url: "https://fedor-malyshkin.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 social:
   name: Fedor Malyshkin
@@ -26,10 +26,10 @@ social:
 lang: en_US
 
 # Contact data
-github_link: github.com/fedor-malyshkin
-linkedin_link: linkedin.com/in/fedor-malyshkin/
-habrahabr_link: habrahabr.ru/users/fedor_malyshkin/
-moikrug_link: moikrug.ru/fedor-malyshkin
+github_link: https://github.com/fedor-malyshkin
+linkedin_link: https://linkedin.com/in/fedor-malyshkin/
+habrahabr_link: https://habrahabr.ru/users/fedor_malyshkin/
+moikrug_link: https://moikrug.ru/fedor-malyshkin
 telegram_link: https://t.me/fedor_malyshkin
 telegram_user: "@fedor_malyshkin"
 contact_email: fedor.malyshkin@gmail.com
@@ -75,13 +75,6 @@ date_format: "%b %-d, %Y"
 
 # Site permalink settings
 permalink: /:title/
-# End
-
-# Collections settings
-collections:
-  documentation:
-    output: true
-    permalink: /:collection/:path
 # End
 
 # Site menu settings
