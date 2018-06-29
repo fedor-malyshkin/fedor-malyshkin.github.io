@@ -9,15 +9,44 @@ For implementing a really big and complex software product (specially distribute
 So I have practical experience with such technologies I used in projects:
 
 ## Programming languages
+* Java (6 six years of expirience: streams, collections, generics, multithreading/concurrent programming, debugging)
+* Groovy
+* Scala
+* R (used only for log analysis, data visualisation and analysis prototypes)
 
-## Databases
+## Databases (RDBMS & NoSQL)
+* MySQL
+* PostgreSQL
+* Oracle
+* MongoDB
+* Cassandra
 
 ## Application Frameworks
+* Spring (Core, Web, Integration, Boot)
+* Dropwizard
 
-## Distribution systems???
+## Distributed systems
+* Apache Storm
+* Apache Spark
+* Apache Hadoop
 
-## Message ????
+## Message brokers
+* RabbitMQ
+* Apache Kafka
 
 ## Build systems
+* Ant
+* Maven
+* Gradle
 
-## Monitoring systems
+## Application servers / Cluster managers / Virtualization / etc
+* JBoss
+* Tomcat
+* AWS
+* Google Cloud
+* YARN
+* Docker
+* Zookeeper
+* ...
+
+... and a lot of other medium and small libraries and products.
