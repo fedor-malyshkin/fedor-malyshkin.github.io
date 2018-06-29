@@ -8,7 +8,7 @@ During my career I took a part in many projects and created many applications,
 but there are several projects wothly to mention:
 
 
-* [My side-project "StoryLine 2" (news aggregator)](/projects/story_line2)
+* ["StoryLine 2" (news aggregator)](/projects/story_line2)
 
   _My side-project where I had opportunity to experiment with cutting-edge technologies and programming languages._
   * **Working period:** 2016-now
@@ -19,10 +19,9 @@ but there are several projects wothly to mention:
 * [Magnet Platform and DMS "Big Archive"](/projects/magnet_big_archive)
 
   _The first big project i has been a part. Was based on old well-known technologies and  provided document management services for 600 managers. When I gone from project, project had a base of almost 1 million documents and almost same amount of dictionary records_
-  * **Description:** bla-bla
   * **Working period:** 2006-2009
   * **Used technologies:** Java, Ant, SQL, JSP, Lucene
-  * **My part in project:**
+  * **My part in project:** architector, authentication/search/storage module author
   * **Git repository:**
   	* [https://github.com/fedor-malyshkin/magnetosoft_big_archive](https://github.com/fedor-malyshkin/magnetosoft_big_archive)
   	* [https://github.com/fedor-malyshkin/magnetosoft_magnet](https://github.com/fedor-malyshkin/magnetosoft_magnet)
