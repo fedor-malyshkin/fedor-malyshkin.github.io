@@ -10,7 +10,7 @@ but there are several projects wothly to mention:
 
 * ["StoryLine 2" (news aggregator)](/projects/story_line2)
 
-  _My side-project where I had opportunity to experiment with cutting-edge technologies and programming languages._
+  _My side-project where I have opportunity to experiment with cutting-edge technologies and programming languages._
   * **Working period:** 2016-now
   * **Used technologies:** Java, Gradle, Scala, sbt, Kafka, Akka, Apache Spark, Apache Storm, MongoDB, Spring, Elasticsearch
   * **GitPages:** [https://fedor-malyshkin.github.io/story_line2_build/](https://fedor-malyshkin.github.io/story_line2_build/)
