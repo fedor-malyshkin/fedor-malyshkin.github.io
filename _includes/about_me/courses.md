@@ -1,4 +1,5 @@
 Be a software developer means to study all the time during your career (to be in demand), so I try to study a lot:
+* [AWS](https://aws.amazon.com): **AWS Certified Cloud Practitioner**. [Certificate earned on October, 2019](https://www.certmetrics.com/amazon/public/badge.aspx?i=9&t=c&d=2019-10-26&ci=AWS00595152);
 * [Coursera](https://www.coursera.org): **Google Cloud Platform Fundamentals: Core Infrastructure by Google Cloud** on Coursera. [Certificate earned on February 14, 2019](https://www.coursera.org/account/accomplishments/certificate/R8U5M2LDYCRB);
 * [Coursera](https://www.coursera.org): Courses from partly published specialization from Yandex **Big Data for Data Engineers Specialization**: "HDFS, MapReduce and Spark RDD",  "Hive, Spark SQL, DataFrames and GraphFrames", "Machine Learning at Scale" (certificates: [first](https://www.coursera.org/account/accomplishments/certificate/7L3SUHJYV2VL),  [second](https://www.coursera.org/account/accomplishments/certificate/R925KBPP6S45),
 and [third](https://www.coursera.org/account/accomplishments/certificate/KBRVRRRATF3C))
