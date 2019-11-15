@@ -11,7 +11,8 @@ but there are several projects:
 
   _My current employer's main project for client's data processing, aggregation and transformation_
   * **Working period:** 2018 - present time
-  * **Used technologies:** Java, Spring, Oracle, Kafka, Multithreading, JMS
+  * **Used technologies:** Java 8, Spring Boot, Spring Integration, Web Sphere (AS, MQ), RxJava 2,
+Oracle, Kafka, Hadoop, Maven, TestNG, DBUnit.
 
 * ["Story Line2" (news aggregator)](https://fedor-malyshkin.github.io/story_line2_build/)
 
