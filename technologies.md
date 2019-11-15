@@ -4,22 +4,21 @@ title: Technologies I used and have experience
 permalink: /technologies/
 ---
 
-For implementing a really big and complex software product (specially distributed and processing a lot of different data) you have to use a different techonlogies to store, process, analyse and visualise these datas, to communicate with other systems and users.
+For implementing a really big and complex software product (specially distributed and processing a lot of different data) you have to use a different technologies to store, process, analyze and visualize these data, to communicate with other systems and users.
 
 So I have practical experience with such technologies I used in projects:
 
 ## Programming languages
-* Java (6 years of expirience: streams, collections, generics, multithreading/concurrent programming, debugging)
+* Java (more than 5 years of experience: streams, collections, generics, multithreading/concurrent programming, debugging)
 * Groovy
 * Scala
-* R (used only for log analysis, data visualisation and analysis prototypes)
+* R (used only for log analysis, data visualization and analysis prototypes)
 
 ## Databases (RDBMS & NoSQL)
 * MySQL
 * PostgreSQL
 * Oracle
 * MongoDB
-* Cassandra
 
 ## Application Frameworks
 * Spring (Core, Web, Integration, Boot)

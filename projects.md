@@ -5,7 +5,13 @@ permalink: /projects/
 ---
 
 During my career I took a part in many projects and created many applications,
-but there are several projects wothly to mention:
+but there are several projects:
+
+* System for client's data processing in Russian's bigest bank (Sberbank)
+
+  _My current employer's main project for client's data processing, aggregation and transformation_
+  * **Working period:** 2018 - present time
+  * **Used technologies:** Java, Spring, Oracle, Kafka, Multithreading, JMS
 
 * ["Story Line2" (news aggregator)](https://fedor-malyshkin.github.io/story_line2_build/)
 
@@ -24,7 +30,7 @@ but there are several projects wothly to mention:
 
 * GLR parser to extract structured data from text in natural language
 
-  _My first project in NLP, inspired by [tomita parser from Yandex](https://tech.yandex.ru/tomita/). Implemented fully in Java and have almost the same functionality as Yandex's product, uses morphological base from [http://opencorpora.org/](http://opencorpora.org/)_
+  _My first project in NLP, inspired by [tomita parser from Yandex](https://tech.yandex.ru/tomita/). Implemented fully in Java and has almost the same functionality as Yandex's product, uses morphological base from [http://opencorpora.org/](http://opencorpora.org/)_
   * **Working period:** 2014-2015
   * **Used technologies:** Spring, Java
   * **Git repository:**
@@ -34,7 +40,7 @@ but there are several projects wothly to mention:
 
 * Magnet Platform and DMS "Big Archive"
 
-  _The first big project i has been a part. Was based on old well-known technologies and  provided document management services for 600 managers. When I gone from project, project had a base of almost 1 million documents and almost same amount of dictionary records_
+  _The first big project I has been a part. Was based on old well-known technologies and provided document management services for more that 600 managers. When I gone from project, project had a base of almost 1 million documents and almost same amount of dictionary records_
   * **Working period:** 2006-2009
   * **Used technologies:** Java, Ant, SQL, JSP, Lucene
   * **My part in project:** architector, authentication/search/storage module author

@@ -2,4 +2,4 @@ I can describe myself as a software developer with wide experience not only in s
 
 Another very interesting theme for me it’s machine learning, which I believe will be necessary for every software developer in near future (5-10 years).
 
-Most of the time I was working on Java, but some time before I decided to study Scala and started using it in my practice. Therefore, I am very interested in project where I can improve this skill. I have worked quite a lot with relational and non-relational databases, message brokers, build systems, version control systems. I’m using testing and code-review in my work.
+Most of the time I am working on Java, but some time before I have decided to study Scala and started using it in my practice. Therefore, I am very interested in project where I can improve this skill. I worked a lot with relational and non-relational databases, message brokers, build systems, version control systems. In addition I’m using testing and code-review in my work.
