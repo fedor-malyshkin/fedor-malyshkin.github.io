@@ -15,7 +15,8 @@
 # in the templates via {{ site.myvariable }}.
 title: Fedor Malyshkin's Portfolio
 description: "Backend developer: Java, Scala, Spring, Akka, Databases, Hadoop, Spark"
-url: "https://fedor-malyshkin.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+# the base hostname & protocol for your site, e.g. http://example.com
+url: "https://fedor-malyshkin.github.io/"
 social:
   name: Fedor Malyshkin
   links:
@@ -26,7 +27,7 @@ lang: en_US
 
 # Contact data
 github_link: https://github.com/fedor-malyshkin
-linkedin_link: https://linkedin.com/in/fedor-malyshkin/
+linkedin_link: https://www.linkedin.com/in/fedor-malyshkin/
 habrahabr_link: https://habrahabr.ru/users/fedor_malyshkin/
 telegram_link: https://t.me/fedor_malyshkin
 telegram_user: "@fedor_malyshkin"
