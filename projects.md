@@ -1,18 +1,22 @@
 ---
 layout: page
-title: Projects I took a part
+title: Projects in which I participated
 permalink: /projects/
 ---
 
-During my career I took a part in many projects and created many applications,
+During my career I have participated in many projects and created many applications,
 but there are several projects:
 
-* System for client's data processing in Russian's bigest bank (Sberbank)
+* System for client data processing in Russian's biggest bank (Sberbank)
 
-  _My current employer's main project for client's data processing, aggregation and transformation_
   * **Working period:** 2018 - present time
   * **Used technologies:** Java 8, Spring Boot, Spring Integration, Web Sphere (AS, MQ), RxJava 2,
 Oracle, Kafka, Hadoop, Maven, TestNG, DBUnit.
+
+* Backend part of online broker's exchange platform
+
+  * **Working period:** 2019
+  * **Used technologies:** Scala 2.12, Akka, Akka Stream, Akka Http, Monix, PostgreSQL, ScalaTest.
 
 * ["Story Line2" (news aggregator)](https://fedor-malyshkin.github.io/story_line2_build/)
 

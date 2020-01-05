@@ -1,23 +1,23 @@
 ---
 layout: page
-title: Technologies I used and have experience
+title: Technologies that I have used and have experience with
 permalink: /technologies/
 ---
 
-For implementing a really big and complex software product (specially distributed and processing a lot of different data) you have to use a different technologies to store, process, analyze and visualize these data, to communicate with other systems and users.
+To implement a really large and complex software product (specially distributed and processing a lot of different data), it is necessary to use different technologies for storing, processing, analyzing and visualizing this data, for communication with other systems and users.
 
-So I have practical experience with such technologies I used in projects:
+Therefore, I have practical experience with such technologies that I have used in projects:
 
 ## Programming languages
-* Java (more than 5 years of experience: streams, collections, generics, multithreading/concurrent programming, debugging)
-* Groovy
+* Java 8-12 (more than 9 years of experience: Stream API, collections, generics, multithreading/concurrency, debugging, garbage collecting)
 * Scala
+* Groovy
 * R (used only for log analysis, data visualization and analysis prototypes)
 
 ## Databases (RDBMS & NoSQL)
-* MySQL
-* PostgreSQL
 * Oracle
+* PostgreSQL
+* MySQL
 * MongoDB
 
 ## Application Frameworks
@@ -30,22 +30,24 @@ So I have practical experience with such technologies I used in projects:
 * Apache Hadoop
 
 ## Message brokers
-* RabbitMQ
 * Apache Kafka
+* RabbitMQ
 
 ## Build systems
-* Ant
-* Maven
 * Gradle
+* Maven
+* Ant
 
 ## Application servers / Cluster managers / Virtualization / etc
-* JBoss
-* Tomcat
-* AWS
-* Google Cloud
-* YARN
 * Docker
+* Kubernetes
+* AWS
 * Zookeeper
+* WAS (WebSphere Application Server)
+* YARN
+* Google Cloud
+* Tomcat
+* JBoss
 * ...
 
-... and a lot of other medium and small libraries and products.
+... and many other medium and small libraries and frameworks.

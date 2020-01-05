@@ -21,7 +21,6 @@ social:
   links:
     - https://www.linkedin.com/in/fedor-malyshkin/
     - https://habrahabr.ru/users/fedor_malyshkin/
-    - https://moikrug.ru/fedor-malyshkin
     - https://github.com/fedor-malyshkin
 lang: en_US
 
@@ -29,12 +28,9 @@ lang: en_US
 github_link: https://github.com/fedor-malyshkin
 linkedin_link: https://linkedin.com/in/fedor-malyshkin/
 habrahabr_link: https://habrahabr.ru/users/fedor_malyshkin/
-moikrug_link: https://moikrug.ru/fedor-malyshkin
 telegram_link: https://t.me/fedor_malyshkin
 telegram_user: "@fedor_malyshkin"
 contact_email: fedor.malyshkin@gmail.com
-
-
 
 # Build settings
 markdown: kramdown
@@ -83,7 +79,7 @@ menu:
     url: "/about_me"
   - title: "Projects"
     url: "/projects"
-  - title: "Technologies"
+  - title: "Technologies/Stack"
     url: "/technologies"
   - title: "CV"
     url: "/cv"
