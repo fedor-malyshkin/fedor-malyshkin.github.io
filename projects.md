@@ -4,8 +4,7 @@ title: Projects in which I participated
 permalink: /projects/
 ---
 
-During my career I have participated in many projects and created many applications,
-but there are several projects:
+During my career, I have participated in many projects and created many applications, but there are several of them:
 
 * System for client data processing in Russian's biggest bank (Sberbank)
 
@@ -20,7 +19,7 @@ Oracle, Kafka, Hadoop, Maven, TestNG, DBUnit.
 
 * ["Story Line2" (news aggregator)](https://fedor-malyshkin.github.io/story_line2_build/)
 
-  _My side-project where I have opportunity to experiment with cutting-edge technologies and programming languages. Detailed description of components and used technologies avilable on [site of project](https://fedor-malyshkin.github.io/story_line2_build/)_
+  _My side-project where I have opportunity to experiment with cutting-edge technologies and programming languages. Detailed description of components and used technologies available on [site of project](https://fedor-malyshkin.github.io/story_line2_build/)_
   * **Working period:** 2014 - present time
   * **Used technologies:** Java, Gradle, Scala, sbt, Kafka, Akka, Apache Spark, Apache Storm, MongoDB, Spring, Elasticsearch
   * **GitPages:** [https://fedor-malyshkin.github.io/story_line2_build/](https://fedor-malyshkin.github.io/story_line2_build/)
