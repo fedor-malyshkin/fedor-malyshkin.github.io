@@ -6,7 +6,7 @@ Available on https://fedor-malyshkin.github.io
 * Update info on site, after that in CV and in LI (https://www.linkedin.com/in/fedor-malyshkin/)
 
 ## Calculate experience
-4 (in magnetico) + (current year - 2015) = so for 2020 it will be ( 4 + (2020-2015) = 9)
+4 (in magnetico) + (current year - 2015) = so for 2020 it will be  `4 + (2020-2015) = 9`
 
 
 ## Local testing

@@ -4,14 +4,15 @@ title: Technologies that I have used and have experience with
 permalink: /technologies/
 ---
 
-To implement a really large and complex software product (specially distributed and processing a lot of different data), it is necessary to use different technologies for storing, processing, analyzing and visualizing this data, for communication with other systems and users.
+To implement a huge and complex software product (especially distributed and processing a lot of different data), it is necessary to use different technologies for storing, processing, transferring, analyzing and visualizing the data.
 
-Therefore, I have practical experience with such technologies that I have used in projects:
+Therefore, I have practical experience with such technologies that I have used in other projects:
 
 ## Programming languages
 * Java 8-12 (more than 9 years of experience: Stream API, collections, generics, multithreading/concurrency, debugging, garbage collecting)
 * Scala
-* Groovy
+* Groovy (mostly for scripting some routine tasks of scripting support inside application)
+* Python (mostly for scripting some routine tasks or prototyping)
 * R (used only for log analysis, data visualization and analysis prototypes)
 
 ## Databases (RDBMS & NoSQL)
@@ -23,6 +24,7 @@ Therefore, I have practical experience with such technologies that I have used i
 ## Application Frameworks
 * Spring (Core, Web, Integration, Boot)
 * Dropwizard
+* Akka, Akka HTTP
 
 ## Distributed systems
 * Apache Storm
