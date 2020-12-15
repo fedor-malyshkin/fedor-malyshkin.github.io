@@ -1,1 +1,1 @@
-I want to find a job as a Java/Scala software developer of analysis/processing data systems with a massive amount of data and/or with lots of users.
+I want to find a Java/Scala software developer position with work on analysis/processing data systems with a massive amount of data and/or with lots of users.

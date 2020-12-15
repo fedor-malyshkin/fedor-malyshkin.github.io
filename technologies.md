@@ -24,7 +24,7 @@ Therefore, I have practical experience with such technologies that I have used i
 ## Application Frameworks
 * Spring (Core, Web, Integration, Boot)
 * Dropwizard
-* Akka, Akka HTTP
+* Akka, Akka HTTP, Akka Streams
 
 ## Distributed systems
 * Apache Storm
