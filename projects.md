@@ -6,9 +6,15 @@ permalink: /projects/
 
 During my career, I have participated in many projects and created many applications, but there are several of them:
 
+* Project under NDA
+
+  * **Working period:** 2020 - present time
+  * **Used technologies:** Java 8/11, Spring Boot, Apache Spark, React, Vaadin, Docker, Kubernetes, Jenkins, 
+Apache Kudu, Apache Impala.
+
 * System for client data processing in Russian's biggest bank (Sberbank)
 
-  * **Working period:** 2018 - present time
+  * **Working period:** 2018 - 2020
   * **Used technologies:** Java 8, Spring Boot, Spring Integration, Web Sphere (AS, MQ), RxJava 2,
 Oracle, Kafka, Hadoop, Maven, TestNG, DBUnit.
 

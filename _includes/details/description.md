@@ -7,7 +7,7 @@ and engineering practices (containerization, auto-provisioning and monitoring)
 
 Another interesting trend for me is machine learning, which I believe is necessary for almost any software developer in the foreseeable future.
 
-Most of the time, I am working with Java, but I', interested in Scala as well and have decided to add it to my stack. Therefore, 
+Most of the time, I am working with Java, but I'm interested in Scala as well and have decided to add it to my stack. Therefore, 
 I am very interested in projects where I can improve this skill.
 
 I have been working a lot with relational and non-relational databases, message brokers, build systems, version control systems. Of course, I use testing and code-review in my work.
