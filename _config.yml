@@ -76,8 +76,8 @@ permalink: /:title/
 
 # Site menu settings
 menu:
-  - title: "About me"
-    url: "/about_me"
+  - title: "More details"
+    url: "/details"
   - title: "Projects"
     url: "/projects"
   - title: "Technologies/Stack"
