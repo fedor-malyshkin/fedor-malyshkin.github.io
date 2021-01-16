@@ -53,7 +53,4 @@ Oracle, Kafka, Hadoop, Maven, TestNG, DBUnit.
   _The first big project I has been a part. Was based on old well-known technologies and provided document management services for more that 600 managers. When I gone from project, project had a base of almost 1 million documents and almost same amount of dictionary records_
   * **Working period:** 2006-2009
   * **Used technologies:** Java, Ant, SQL, JSP, Lucene
-  * **My part in project:** architector, authentication/search/storage module author
-  * **Git repository:**
-  	* [https://github.com/fedor-malyshkin/magnetosoft_big_archive](https://github.com/fedor-malyshkin/magnetosoft_big_archive)
-  	* [https://github.com/fedor-malyshkin/magnetosoft_magnet](https://github.com/fedor-malyshkin/magnetosoft_magnet)
+  * **My part in project:** authentication/search/storage module author
