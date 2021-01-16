@@ -9,7 +9,7 @@ To implement a huge and complex software product (especially distributed and pro
 Therefore, I have practical experience with such technologies that I have used in other projects:
 
 ## Programming languages
-* Java 8-12 (more than 9 years of experience: Stream API, collections, generics, multithreading/concurrency, debugging, garbage collecting)
+* Java 8-15 (more than 9 years of experience: Stream API, collections, generics, multithreading/concurrency, debugging, garbage collecting)
 * Scala
 * Groovy (mostly for scripting some routine tasks of scripting support inside application)
 * Python (mostly for scripting some routine tasks or prototyping)
