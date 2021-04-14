@@ -10,9 +10,9 @@ Therefore, I have practical experience with such technologies that I have used i
 
 ## Programming languages
 * Java 8-15 (more than 9 years of experience: Stream API, collections, generics, multithreading/concurrency, debugging, garbage collecting)
-* Scala
-* Groovy (mostly for scripting some routine tasks of scripting support inside application)
+* Scala (2.13)
 * Python (mostly for scripting some routine tasks or prototyping)
+* Groovy (mostly for scripting some routine tasks of scripting support inside application)
 * R (used only for log analysis, data visualization and analysis prototypes)
 
 ## Databases (RDBMS & NoSQL)

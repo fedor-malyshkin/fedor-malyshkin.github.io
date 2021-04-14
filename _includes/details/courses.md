@@ -1,4 +1,8 @@
 Be a software developer means to study all the time during your career (to be in demand), so I try to study a lot:
+* [Udemy](https://www.udemy.com): **Python 3: Deep Dive (4-part course, advanced level)**. [Certificate earned on January, 2021](https://www.udemy.com/certificate/UC-d3095d89-3ad6-4b08-bc76-727b4a71bdb6/),
+  [Certificate earned on February, 2021](https://www.udemy.com/certificate/UC-3ca3ebd1-5fd4-4ac8-a0a3-0756697cd4da/),
+  [Certificate earned on February, 2021](https://www.udemy.com/certificate/UC-05ec30dc-3d19-475b-be09-ab7519fef332/),
+  [Certificate earned on March, 2021](https://www.udemy.com/certificate/UC-e10ee1eb-9ee3-4c48-8f04-c4ef1918be68/);
 * [AWS](https://aws.amazon.com): **AWS Certified Solutions Architect - Associate**. [Certificate earned on November, 2019](https://www.youracclaim.com/badges/bbb6de70-ed4d-4d8f-849f-0603f67628e7);
 * [Coursera](https://www.coursera.org): **Google Cloud Platform Fundamentals: Core Infrastructure by Google Cloud** on Coursera. [Certificate earned on February 14, 2019](https://www.coursera.org/account/accomplishments/certificate/R8U5M2LDYCRB);
 * [Coursera](https://www.coursera.org): Courses from partly published specialization from Yandex **Big Data for Data Engineers Specialization**: "HDFS, MapReduce and Spark RDD",  "Hive, Spark SQL, DataFrames and GraphFrames", "Machine Learning at Scale" (certificates: [first](https://www.coursera.org/account/accomplishments/certificate/7L3SUHJYV2VL),  [second](https://www.coursera.org/account/accomplishments/certificate/R925KBPP6S45),
