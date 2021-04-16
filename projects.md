@@ -4,7 +4,7 @@ title: Projects in which I participated
 permalink: /projects/
 ---
 
-During my career, I have participated in many projects and created many applications, but there are several of them:
+I took part in and led different IT projects. Not always they were software projects, they were also some integrations that required more people communication rather than development. But speaking of software development, there are some of them:
 
 * Project under NDA
 
@@ -25,8 +25,10 @@ Oracle, Kafka, Hadoop, Maven, TestNG, DBUnit.
 
 * ["Story Line2" (news aggregator)](https://fedor-malyshkin.github.io/story_line2_build/)
 
-  _My side-project where I have opportunity to experiment with cutting-edge technologies and programming languages. Detailed description of components and used technologies available on [site of project](https://fedor-malyshkin.github.io/story_line2_build/)_
-  * **Working period:** 2014 - present time
+  **Because I don't have enough time for this project anymore (and I've cancelled my hosting subscription)  - most of the links to services are dead. However, I decided to keep this repo, maybe I'll come back to it one day**
+  
+  _My side-project where I had opportunity to experiment with cutting-edge technologies and programming languages. Detailed description of components and used technologies available on [site of project](https://fedor-malyshkin.github.io/story_line2_build/)_
+  * **Working period:** 2014 - 2019
   * **Used technologies:** Java, Gradle, Scala, sbt, Kafka, Akka, Apache Spark, Apache Storm, MongoDB, Spring, Elasticsearch
   * **GitPages:** [https://fedor-malyshkin.github.io/story_line2_build/](https://fedor-malyshkin.github.io/story_line2_build/)
   * **Git repository:**
@@ -36,7 +38,6 @@ Oracle, Kafka, Hadoop, Maven, TestNG, DBUnit.
 	* [https://github.com/fedor-malyshkin/story_line2_crawler](https://github.com/fedor-malyshkin/story_line2_crawler)
 	* [https://github.com/fedor-malyshkin/story_line2_crawler_scripts](https://github.com/fedor-malyshkin/story_line2_crawler_scripts)
 	* [https://github.com/fedor-malyshkin/story_line2_client-android](https://github.com/fedor-malyshkin/story_line2_client-android)
-	* [https://github.com/fedor-malyshkin/crawler4j](https://github.com/fedor-malyshkin/crawler4j)
 
 * GLR parser to extract structured data from text in natural language
 
@@ -50,7 +51,7 @@ Oracle, Kafka, Hadoop, Maven, TestNG, DBUnit.
 
 * Magnet Platform and DMS "Big Archive"
 
-  _The first big project I has been a part. Was based on old well-known technologies and provided document management services for more that 600 managers. When I gone from project, project had a base of almost 1 million documents and almost same amount of dictionary records_
+  _The first big project I was involved in. Was based on old well-known technologies and provided document management services for more that 600 managers. When I gone from project, project had a base of almost 1 million documents and almost same amount of dictionary records_
   * **Working period:** 2006-2009
   * **Used technologies:** Java, Ant, SQL, JSP, Lucene
   * **My part in project:** authentication/search/storage module author

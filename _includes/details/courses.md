@@ -1,4 +1,5 @@
-Be a software developer means to study all the time during your career (to be in demand), so I try to study a lot:
+Any more-or-less worthwhile solution/project requires some technologies (not always cutting-edge, in fact), so I'm always trying to study and test in practice technologies that I've found helpful (but sometimes as  fancy ones only):
+
 * [Udemy](https://www.udemy.com): **Python 3: Deep Dive (4-part course, advanced level)**. [Certificate earned on January, 2021](https://www.udemy.com/certificate/UC-d3095d89-3ad6-4b08-bc76-727b4a71bdb6/),
   [Certificate earned on February, 2021](https://www.udemy.com/certificate/UC-3ca3ebd1-5fd4-4ac8-a0a3-0756697cd4da/),
   [Certificate earned on February, 2021](https://www.udemy.com/certificate/UC-05ec30dc-3d19-475b-be09-ab7519fef332/),
