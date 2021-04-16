@@ -4,14 +4,14 @@ title: Technologies that I have used and have experience with
 permalink: /technologies/
 ---
 
-To implement a huge and complex software product (especially distributed and processing a lot of different data), it is necessary to use different technologies for storing, processing, transferring, analyzing and visualizing the data.
+To implement a huge and complex software product, you always use some set of technologies. And the final result is mainly determined not by how many technologies were used of how extensively they were used , but rather by how clever they were used.  An ideal case - when not used at all :grin:.
 
-Therefore, I have practical experience with such technologies that I have used in other projects:
+So it is my list of technologies I more-or-less confident with:
 
 ## Programming languages
-* Java 8-15 (more than 9 years of experience: Stream API, collections, generics, multithreading/concurrency, debugging, garbage collecting)
-* Scala (2.13)
-* Python (mostly for scripting some routine tasks or prototyping)
+* Java 8-15 (more than 10 years of experience: Stream API, collections, generics, multithreading/concurrency, debugging, garbage collecting)
+* Scala (2.12/2.13) and I'm looking for Scala 3 :smiley:
+* Python 
 * Groovy (mostly for scripting some routine tasks of scripting support inside application)
 * R (used only for log analysis, data visualization and analysis prototypes)
 
@@ -27,8 +27,8 @@ Therefore, I have practical experience with such technologies that I have used i
 * Akka, Akka HTTP, Akka Streams
 
 ## Distributed systems
-* Apache Storm
 * Apache Spark
+* Apache Storm
 * Apache Hadoop
 
 ## Message brokers
@@ -46,10 +46,15 @@ Therefore, I have practical experience with such technologies that I have used i
 * AWS
 * Zookeeper
 * WAS (WebSphere Application Server)
-* YARN
 * Google Cloud
 * Tomcat
 * JBoss
-* ...
+
+## Version control systems (and their providers)
+* Git
+* BitBucket
+* GitHub
+* GitLab
+
 
 ... and many other medium and small libraries and frameworks.

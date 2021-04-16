@@ -2,22 +2,25 @@
 
 Available on https://fedor-malyshkin.github.io
 
-## Contribution process:
+## Contribution process
 
 * Update info on site, after that in CV and in LI (https://www.linkedin.com/in/fedor-malyshkin/)
 
 ## Calculate experience
 
-4 (in magnetico) + (current year - 2015) = so for 2020 it will be  `4 + (2020-2015) = 9`
+4 (in magnetico/magnetosoft) + (current year - 2015) = so for 2021 it will be  `4 + (2020-2015) = 10`
 
 ## Local testing (with Docker)
 
 * Start docker (in this directory):
 
 ```shell
-(intial) docker run -it -v `pwd`:/mnt -p 80:4000 --name jekyll ubuntu bash 
-(start) docker start jekyll 
-(login) docker exec -it  jekyll bash
+# initial
+docker run -it -v `pwd`:/mnt -p 80:4000 --name jekyll ubuntu bash 
+# start
+docker start jekyll 
+# login
+docker exec -it  jekyll bash
 ```
 
 * (in docker) Install Ruby:
@@ -71,3 +74,4 @@ cd /mnt
 gem update
 bundle update
 ```
+

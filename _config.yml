@@ -21,14 +21,12 @@ social:
   name: Fedor Malyshkin
   links:
     - https://www.linkedin.com/in/fedor-malyshkin/
-    - https://habrahabr.ru/users/fedor_malyshkin/
     - https://github.com/fedor-malyshkin
 lang: en_US
 
 # Contact data
 github_link: https://github.com/fedor-malyshkin
 linkedin_link: https://www.linkedin.com/in/fedor-malyshkin/
-habrahabr_link: https://habrahabr.ru/users/fedor_malyshkin/
 telegram_link: https://t.me/fedor_malyshkin
 telegram_user: "@fedor_malyshkin"
 contact_email: fedor.malyshkin@gmail.com
@@ -53,8 +51,8 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-avatar
-  - jekyll-github-metadata
   - jekyll-gist
+  - jemoji
 
 exclude:
   - Gemfile
