@@ -1,5 +1,7 @@
 Any more-or-less worthwhile solution/project requires some technologies (not always cutting-edge, in fact), so I'm always trying to study and test in practice technologies that I've found helpful (but sometimes as  fancy ones only):
 
+* [Coursera](https://www.coursera.org): **Developing Applications with Google Cloud Platform Specialization**. [Certificate earned on May, 2021](
+https://www.coursera.org/account/accomplishments/specialization/certificate/F6KF88WFBUM7),
 * [Udemy](https://www.udemy.com): **Scala Advanced (3-part course, advanced level)**. [Certificate earned on April, 2021](https://www.udemy.com/certificate/UC-64476b70-f926-4b36-9f04-1a84fe550f79/),
   [Certificate earned on April, 2021](https://www.udemy.com/certificate/UC-ab9cccb6-a609-4eae-86fe-7e8fd57ed799/),
   [Certificate earned on May, 2021](https://www.udemy.com/certificate/UC-7712b8a1-a731-426d-880d-cd86a4813559/);
