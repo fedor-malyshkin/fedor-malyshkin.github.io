@@ -9,7 +9,7 @@ To implement a huge and complex software product, you always use some set of tec
 So it is my list of technologies I more-or-less confident with:
 
 ## Programming languages
-* Java 8-15 (more than 10 years of experience: Stream API, collections, generics, multithreading/concurrency, debugging, garbage collecting)
+* Java 8-15 (more than 11 years of experience: Stream API, collections, generics, multithreading/concurrency, debugging, garbage collecting)
 * Scala (2.12/2.13) and I'm looking for Scala 3 :smiley:
 * Python 
 * Groovy (mostly for scripting some routine tasks of scripting support inside application)
@@ -44,7 +44,7 @@ So it is my list of technologies I more-or-less confident with:
 * Docker
 * Kubernetes
 * AWS
-* Zookeeper
+* GCP
 * WAS (WebSphere Application Server)
 * Google Cloud
 * Tomcat

@@ -1,7 +1,15 @@
 Any more-or-less worthwhile solution/project requires some technologies (not always cutting-edge, in fact), so I'm always trying to study and test in practice technologies that I've found helpful (but sometimes as  fancy ones only):
 
+* [Lightbend](https://academy.lightbend.com): **Certified Reactive Architect**. [Certificate earned on August, 2021](https://certification.mettl.com/lightbend/applicant/result/download-certificate?key=yZiw5WH%2FAOmnH7Li2Wsg2Q);
+* [Lightbend](https://academy.lightbend.com): **Reactive Architecture** (
+  [Introduction to Reactive Systems](https://www.credly.com/badges/38b77b56-149e-4ac5-b17c-9b0af7331206e),
+  [Reactive Microservices](https://www.credly.com/badges/a1168c3f-25be-4978-963f-87fa346b2864e),
+  [Domain Driven Design](https://www.credly.com/badges/dc471c15-5c12-4edb-a1ed-920733c230efe), 
+  [Distributed Messaging Patterns](https://www.credly.com/badges/805843ec-b640-47bf-b5c8-85c086587887e),
+  [CQRS and Event Sourcing](https://www.credly.com/badges/ae457509-2b81-454d-91b9-739f7e3ecef4e),
+  [Building Scalable Systems](https://www.credly.com/badges/1e93e8cb-f9ea-4e47-817d-db19904bfee3e));
 * [Coursera](https://www.coursera.org): **Developing Applications with Google Cloud Platform Specialization**. [Specialization Certificate earned on May, 2021](
-https://www.coursera.org/account/accomplishments/specialization/F6KF88WFBUM7),
+https://www.coursera.org/account/accomplishments/specialization/F6KF88WFBUM7);
 * [Udemy](https://www.udemy.com): **Scala Advanced (3-part course, advanced level)**. [Certificate earned on April, 2021](https://www.udemy.com/certificate/UC-64476b70-f926-4b36-9f04-1a84fe550f79/),
   [Certificate earned on April, 2021](https://www.udemy.com/certificate/UC-ab9cccb6-a609-4eae-86fe-7e8fd57ed799/),
   [Certificate earned on May, 2021](https://www.udemy.com/certificate/UC-7712b8a1-a731-426d-880d-cd86a4813559/);

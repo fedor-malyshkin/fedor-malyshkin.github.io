@@ -8,7 +8,9 @@ Available on https://fedor-malyshkin.github.io
 
 ## Calculate experience
 
-4 (in magnetico/magnetosoft) + (current year - 2015) = so for 2021 it will be  `4 + (2020-2015) = 10`
+* Java: 4 (in magnetico/magnetosoft) + (current year - 2015) = so for 2021 it will be  `4 + (2021-2015) = 10`
+* Scala: the current year - 2018 `(2021-2018) = 3`
+* Python: the current year - 2018 `(2021-2018) = 3`
 
 ## Local testing (with Docker)
 
